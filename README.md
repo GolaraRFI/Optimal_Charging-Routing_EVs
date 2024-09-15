@@ -56,6 +56,13 @@ Dataset content:
 - Description: Free-text field for any additional information about the station.
 - Usage: May include extra details such as station operational hours, pricing information, or any special notes for users.
 
+## Installation
+
+To run this project, you'll need to install the following Python libraries:
+
+```bash
+pip install osmnx requests pandas geopy networkx folium pulp shapely
+```
 
 ### Key Features
 
