@@ -1,6 +1,6 @@
 # Optimal Charging and Routing of Electric Vehicles (EVs)
 
-### Project Overview
+### Project Overview 
 
 This project focuses on optimizing both the routing and charging processes for Electric Vehicles (EVs) to enhance travel efficiency and convenience. By leveraging data on road conditions, battery status, and charging infrastructure, the system provides intelligent routing solutions that balance travel time, charging needs, and cost-efficiency.
 
