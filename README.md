@@ -1,4 +1,4 @@
-# Optimal Charging and Routing of Electric Vehicles (EVs)
+# Optimal Charging and Routing of Electric Vehicles (EVs) 
 
 ### Project Overview 
 
